@@ -3,10 +3,26 @@
     <head>
         <meta charset="utf-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
-        <meta name="description" content="" />
-        <meta name="author" content="" />
+        <meta name="description" content="Perusahaan Startup untuk Aplikasi UMKM" />
+        <meta name="author" content="maslakone.com" />
         <title>{{ $judul }} | {{ $versi }}</title>
-        <link rel="icon" type="image/x-icon" href="/favicon.ico" />
+        <link rel="apple-touch-icon" sizes="57x57" href="/icon/apple-icon-57x57.png">
+        <link rel="apple-touch-icon" sizes="60x60" href="/icon/apple-icon-60x60.png">
+        <link rel="apple-touch-icon" sizes="72x72" href="/icon/apple-icon-72x72.png">
+        <link rel="apple-touch-icon" sizes="76x76" href="/icon/apple-icon-76x76.png">
+        <link rel="apple-touch-icon" sizes="114x114" href="/icon/apple-icon-114x114.png">
+        <link rel="apple-touch-icon" sizes="120x120" href="/icon/apple-icon-120x120.png">
+        <link rel="apple-touch-icon" sizes="144x144" href="/icon/apple-icon-144x144.png">
+        <link rel="apple-touch-icon" sizes="152x152" href="/icon/apple-icon-152x152.png">
+        <link rel="apple-touch-icon" sizes="180x180" href="/icon/apple-icon-180x180.png">
+        <link rel="icon" type="image/png" sizes="192x192"  href="/icon/android-icon-192x192.png">
+        <link rel="icon" type="image/png" sizes="32x32" href="/icon/favicon-32x32.png">
+        <link rel="icon" type="image/png" sizes="96x96" href="/icon/favicon-96x96.png">
+        <link rel="icon" type="image/png" sizes="16x16" href="/icon/favicon-16x16.png">
+        <link rel="manifest" href="/icon/manifest.json">
+        <meta name="msapplication-TileColor" content="#ffffff">
+        <meta name="msapplication-TileImage" content="/icon/ms-icon-144x144.png">
+        <meta name="theme-color" content="#ffffff">
         <!-- Bootstrap icons-->
         <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/font/bootstrap-icons.css" rel="stylesheet" />
         <!-- Google fonts-->
@@ -28,11 +44,11 @@
                 </button>
                 <div class="collapse navbar-collapse" id="navbarResponsive">
                     <ul class="navbar-nav ms-auto me-4 my-3 my-lg-0">
-                        <li class="nav-item"><a class="nav-link me-lg-3 text-dark" href="#features">Tentang Kami</a></li>
-                        <li class="nav-item"><a class="nav-link me-lg-3 text-dark" href="#download">Portfolio</a></li>
-                        <li class="nav-item"><a class="nav-link me-lg-3 text-dark" href="#download">Project</a></li>
-                        <li class="nav-item"><a class="nav-link me-lg-3 text-dark" href="#download">Kontak Kami</a></li>
-                        <li class="nav-item"><a class="nav-link me-lg-3 text-dark" href="#download">Blog</a></li>
+                        <li class="nav-item"><a class="nav-link me-lg-3 text-dark" href="#features">Fitur Andalan</a></li>
+                        <li class="nav-item"><a class="nav-link me-lg-3 text-dark" href="/portfolio">Portfolio</a></li>
+                        <li class="nav-item"><a class="nav-link me-lg-3 text-dark" href="/project">Project</a></li>
+                        <li class="nav-item"><a class="nav-link me-lg-3 text-dark" href="#kontak">Kontak Kami</a></li>
+                        <li class="nav-item"><a class="nav-link me-lg-3 text-dark" href="/blog">Blog</a></li>
                     </ul>
                     <button class="btn btn-primary rounded-pill px-3 mb-2 mb-lg-0" data-bs-toggle="modal" data-bs-target="#feedbackModal">
                         <span class="d-flex align-items-center">
@@ -50,11 +66,11 @@
                     <div class="col-lg-6">
                         <!-- Mashead text and app badges-->
                         <div class="mb-5 mb-lg-0 text-center text-lg-start">
-                            <h1 class="display-1 lh-1 mb-3">Showcase your app beautifully.</h1>
-                            <p class="lead fw-normal text-muted mb-5">Launch your application, mobile application at a glance!</p>
+                            <h1 class="display-1 lh-1 mb-3">Pamerkan aplikasi Anda dengan indah.</h1>
+                            <p class="lead fw-normal text-muted mb-5">Luncurkan aplikasi Anda, aplikasi seluler dengan cepat!</p>
                             <div class="d-flex flex-column flex-lg-row align-items-center">
-                                <a class="me-lg-3 mb-4 mb-lg-0" href="#!"><img class="app-badge" src="/images/google-play-badge.svg" alt="..." /></a>
-                                <a href="#!"><img class="app-badge" src="/images/app-store-badge.svg" alt="..." /></a>
+                                <a class="me-lg-3 mb-4 mb-lg-0" href="#!"><img class="app-badge" src="/assets/img/google-play-badge.svg" alt="..." /></a>
+                                <a href="#!"><img class="app-badge" src="/assets/img/app-store-badge.svg" alt="..." /></a>
                             </div>
                         </div>
                     </div>
@@ -112,16 +128,16 @@
                                     <!-- Feature item-->
                                     <div class="text-center">
                                         <i class="bi-phone icon-feature text-gradient d-block mb-3"></i>
-                                        <h3 class="font-alt">Device Mockups</h3>
-                                        <p class="text-muted mb-0">Ready to use HTML/CSS device mockups, no Photoshop required!</p>
+                                        <h3 class="font-alt">Responsive Design</h3>
+                                        <p class="text-muted mb-0">Desain dengan menggunakan teknologi mutakhir</p>
                                     </div>
                                 </div>
                                 <div class="col-md-6 mb-5">
                                     <!-- Feature item-->
                                     <div class="text-center">
-                                        <i class="bi-camera icon-feature text-gradient d-block mb-3"></i>
-                                        <h3 class="font-alt">Flexible Use</h3>
-                                        <p class="text-muted mb-0">Put an image, video, animation, or anything else in the screen!</p>
+                                        <i class="bi bi-emoji-smile icon-feature text-gradient d-block mb-3"></i>
+                                        <h3 class="font-alt">Sesuai Keinginan</h3>
+                                        <p class="text-muted mb-0">Ceritakan kebutuhan aplikasi Anda dan aplikasi akan tersedia!</p>
                                     </div>
                                 </div>
                             </div>
@@ -129,17 +145,17 @@
                                 <div class="col-md-6 mb-5 mb-md-0">
                                     <!-- Feature item-->
                                     <div class="text-center">
-                                        <i class="bi-gift icon-feature text-gradient d-block mb-3"></i>
-                                        <h3 class="font-alt">Free to Use</h3>
-                                        <p class="text-muted mb-0">As always, this theme is free to download and use for any purpose!</p>
+                                        <i class="bi bi-code-square icon-feature text-gradient d-block mb-3"></i>
+                                        <h3 class="font-alt">Teknologi Terkini</h3>
+                                        <p class="text-muted mb-0">Kami menggunakan teknologi terkini dan bahasa pemrograman yang canggih</p>
                                     </div>
                                 </div>
                                 <div class="col-md-6">
                                     <!-- Feature item-->
                                     <div class="text-center">
                                         <i class="bi-patch-check icon-feature text-gradient d-block mb-3"></i>
-                                        <h3 class="font-alt">Open Source</h3>
-                                        <p class="text-muted mb-0">Since this theme is MIT licensed, you can use it commercially!</p>
+                                        <h3 class="font-alt">24x7 Costumer Support</h3>
+                                        <p class="text-muted mb-0">Dukungan terbaik untuk aplikasi Anda</p>
                                     </div>
                                 </div>
                             </div>
@@ -155,11 +171,11 @@
                                         <stop class="gradient-end-color" offset="100%"></stop>
                                     </linearGradient>
                                 </defs>
-                                <circle cx="50" cy="50" r="50"></circle></svg
-                            ><svg class="shape-1 d-none d-sm-block" viewBox="0 0 240.83 240.83" xmlns="http://www.w3.org/2000/svg">
+                                <circle cx="50" cy="50" r="50"></circle></svg>
+                                <svg class="shape-1 d-none d-sm-block" viewBox="0 0 240.83 240.83" xmlns="http://www.w3.org/2000/svg">
                                 <rect x="-32.54" y="78.39" width="305.92" height="84.05" rx="42.03" transform="translate(120.42 -49.88) rotate(45)"></rect>
-                                <rect x="-32.54" y="78.39" width="305.92" height="84.05" rx="42.03" transform="translate(-49.88 120.42) rotate(-45)"></rect></svg
-                            ><svg class="shape-2 d-none d-sm-block" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg"><circle cx="50" cy="50" r="50"></circle></svg>
+                                <rect x="-32.54" y="78.39" width="305.92" height="84.05" rx="42.03" transform="translate(-49.88 120.42) rotate(-45)"></rect>
+                                </svg><svg class="shape-2 d-none d-sm-block" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg"><circle cx="50" cy="50" r="50"></circle></svg>
                             <div class="device-wrapper">
                                 <div class="device" data-device="iPhoneX" data-orientation="portrait" data-color="black">
                                     <div class="screen bg-black">
@@ -181,8 +197,8 @@
             <div class="container px-5">
                 <div class="row gx-5 align-items-center justify-content-center justify-content-lg-between">
                     <div class="col-12 col-lg-5">
-                        <h2 class="display-4 lh-1 mb-4">Enter a new age of web design</h2>
-                        <p class="lead fw-normal text-muted mb-5 mb-lg-0">This section is perfect for featuring some information about your application, why it was built, the problem it solves, or anything else! There's plenty of space for text here, so don't worry about writing too much.</p>
+                        <h2 class="display-4 lh-1 mb-4">Dunia dalam genggaman Anda</h2>
+                        <p class="lead fw-normal text-muted mb-5 mb-lg-0">Perusahaan Startup pembuatan Aplikasi Digital untuk platform web, mobile dan desktop. Temukan solusi aplikasi digital Anda disini</p>
                     </div>
                     <div class="col-sm-8 col-md-6">
                         <div class="px-5 px-sm-0"><img class="img-fluid rounded-circle" src="https://source.unsplash.com/u8Jn2rzYIps/900x900" alt="..." /></div>
@@ -195,15 +211,15 @@
             <div class="cta-content">
                 <div class="container px-5">
                     <h2 class="text-white display-1 lh-1 mb-4">
-                        Stop waiting.
+                        Berhenti Menunggu
                         <br />
-                        Start building.
+                        Mulailah Sekarang!
                     </h2>
-                    <a class="btn btn-outline-light py-3 px-4 rounded-pill" href="https://startbootstrap.com/theme/new-age" target="_blank">Download for free</a>
+                    <a class="btn btn-outline-light py-3 px-4 rounded-pill" href="/kontak" target="_blank">Hubungi Kami Sekarang!</a>
                 </div>
             </div>
         </section>
-        <!-- App badge section-->
+        {{-- <!-- App badge section-->
         <section class="bg-gradient-primary-to-secondary" id="download">
             <div class="container px-5">
                 <h2 class="text-center text-white font-alt mb-4">Get the app now!</h2>
@@ -212,17 +228,17 @@
                     <a href="#!"><img class="app-badge" src="assets/img/app-store-badge.svg" alt="..." /></a>
                 </div>
             </div>
-        </section>
+        </section> --}}
         <!-- Footer-->
         <footer class="bg-black text-center py-5">
             <div class="container px-5">
                 <div class="text-white-50 small">
-                    <div class="mb-2">&copy; Your Website 2021. All Rights Reserved.</div>
-                    <a href="#!">Privacy</a>
+                    <div class="mb-2">&copy; maslakone.com {{ Date('Y') }}. All Right Reserved</div>
+                    <a href="/privasi">Privacy</a>
                     <span class="mx-1">&middot;</span>
-                    <a href="#!">Terms</a>
+                    <a href="/ketentuan">Terms</a>
                     <span class="mx-1">&middot;</span>
-                    <a href="#!">FAQ</a>
+                    <a href="/faq">FAQ</a>
                 </div>
             </div>
         </footer>
@@ -231,7 +247,7 @@
             <div class="modal-dialog modal-dialog-centered">
                 <div class="modal-content">
                     <div class="modal-header bg-gradient-primary-to-secondary p-4">
-                        <h5 class="modal-title font-alt text-white" id="feedbackModalLabel">Send feedback</h5>
+                        <h5 class="modal-title font-alt text-white" id="feedbackModalLabel">Kirim Pesan</h5>
                         <button class="btn-close btn-close-white" type="button" data-bs-dismiss="modal" aria-label="Close"></button>
                     </div>
                     <div class="modal-body border-0 p-4">
@@ -246,26 +262,26 @@
                             <!-- Name input-->
                             <div class="form-floating mb-3">
                                 <input class="form-control" id="name" type="text" placeholder="Enter your name..." data-sb-validations="required" />
-                                <label for="name">Full name</label>
+                                <label for="name">Nama Lengkap</label>
                                 <div class="invalid-feedback" data-sb-feedback="name:required">A name is required.</div>
                             </div>
                             <!-- Email address input-->
                             <div class="form-floating mb-3">
                                 <input class="form-control" id="email" type="email" placeholder="name@example.com" data-sb-validations="required,email" />
-                                <label for="email">Email address</label>
+                                <label for="email">Alamat Email</label>
                                 <div class="invalid-feedback" data-sb-feedback="email:required">An email is required.</div>
                                 <div class="invalid-feedback" data-sb-feedback="email:email">Email is not valid.</div>
                             </div>
                             <!-- Phone number input-->
                             <div class="form-floating mb-3">
                                 <input class="form-control" id="phone" type="tel" placeholder="(123) 456-7890" data-sb-validations="required" />
-                                <label for="phone">Phone number</label>
+                                <label for="phone">No Whatsapp</label>
                                 <div class="invalid-feedback" data-sb-feedback="phone:required">A phone number is required.</div>
                             </div>
                             <!-- Message input-->
                             <div class="form-floating mb-3">
                                 <textarea class="form-control" id="message" type="text" placeholder="Enter your message here..." style="height: 10rem" data-sb-validations="required"></textarea>
-                                <label for="message">Message</label>
+                                <label for="message">Pesan</label>
                                 <div class="invalid-feedback" data-sb-feedback="message:required">A message is required.</div>
                             </div>
                             <!-- Submit success message-->
@@ -277,7 +293,7 @@
                                     <div class="fw-bolder">Form submission successful!</div>
                                     To activate this form, sign up at
                                     <br />
-                                    <a href="https://startbootstrap.com/solution/contact-forms">https://startbootstrap.com/solution/contact-forms</a>
+                                    <a href="#">https://startbootstrap.com/solution/contact-forms</a>
                                 </div>
                             </div>
                             <!-- Submit error message-->
@@ -286,7 +302,7 @@
                             <!-- an error submitting the form-->
                             <div class="d-none" id="submitErrorMessage"><div class="text-center text-danger mb-3">Error sending message!</div></div>
                             <!-- Submit Button-->
-                            <div class="d-grid"><button class="btn btn-primary rounded-pill btn-lg disabled" id="submitButton" type="submit">Submit</button></div>
+                            <div class="d-grid"><button class="btn btn-primary rounded-pill btn-lg disabled" id="submitButton" type="submit">Kirim</button></div>
                         </form>
                     </div>
                 </div>

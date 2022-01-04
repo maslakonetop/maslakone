@@ -13,4 +13,12 @@ class PagesController extends Controller
             'versi' => 'PT. Maslakone Aplikasi Digital'
         ]);
     }
+
+    public function portfolio()
+    {
+        return view('pages.portfolio', [
+            'judul' => 'Portfolio',
+            'versi' => 'PT. Maslakone Aplikasi Digital'
+        ]);
+    }
 }

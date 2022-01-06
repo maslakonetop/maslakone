@@ -95,7 +95,7 @@
         <div class="container">
           <!--<p class="display-6 color-d">Hello, world!</p>-->
           <h1 class="hero-title mb-4">Saya Anthony Itran</h1>
-          <p class="hero-subtitle"><span class="typed" data-typed-items="Designer, Developer, Freelancer, Engineer"></span></p>
+          <p class="hero-subtitle"><span class="typed" data-typed-items="Web Developer, Mobile Developer, Freelancer, Data Analyst"></span></p>
           <!-- <p class="pt-3"><a class="btn btn-primary btn js-scroll px-4" href="#about" role="button">Learn More</a></p> -->
         </div>
       </div>
@@ -201,10 +201,10 @@
           <div class="col-sm-12">
             <div class="title-box text-center">
               <h3 class="title-a">
-                Services
+                Pelayanan
               </h3>
               <p class="subtitle-a">
-                Lorem ipsum, dolor sit amet consectetur adipisicing elit.
+                Berikut adalah layanan yang kami berikan
               </p>
               <div class="line-mf"></div>
             </div>
@@ -219,9 +219,7 @@
               <div class="service-content">
                 <h2 class="s-title">Web Design</h2>
                 <p class="s-description text-center">
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni adipisci eaque autem fugiat! Quia,
-                  provident vitae! Magni
-                  tempora perferendis eum non provident.
+                  Menggunakan Device Mockup dengan aplikasi Figma, Front End Framework seperti Bootstrap 5 untuk Web Developing
                 </p>
               </div>
             </div>
@@ -234,9 +232,7 @@
               <div class="service-content">
                 <h2 class="s-title">Web Development</h2>
                 <p class="s-description text-center">
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni adipisci eaque autem fugiat! Quia,
-                  provident vitae! Magni
-                  tempora perferendis eum non provident.
+                  Menggunakan framework dan teknologi mutakhir untuk membangun website seperti: Framework CodeIgniter dan Laravel. Menggunakan bahasa pemrograman PHP, Java dan Python
                 </p>
               </div>
             </div>
@@ -244,14 +240,12 @@
           <div class="col-md-4">
             <div class="service-box">
               <div class="service-ico">
-                <span class="ico-circle"><i class="bi bi-bar-chart"></i></span>
+                <span class="ico-circle"><i class="bi bi-camera-reels"></i></span>
               </div>
               <div class="service-content">
-                <h2 class="s-title">Photography</h2>
+                <h2 class="s-title">Multimedia</h2>
                 <p class="s-description text-center">
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni adipisci eaque autem fugiat! Quia,
-                  provident vitae! Magni
-                  tempora perferendis eum non provident.
+                  Bekerjasama dengan <a href="https://www.gesangmultimedia.co.id"><strong>CV. Gesang Advertising</strong></a>, untuk kebutuhan multimedia seperti pembuatan VIdeo Profil, Pre-Wedding, dll
                 </p>
               </div>
             </div>
@@ -264,9 +258,7 @@
               <div class="service-content">
                 <h2 class="s-title">Responsive Design</h2>
                 <p class="s-description text-center">
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni adipisci eaque autem fugiat! Quia,
-                  provident vitae! Magni
-                  tempora perferendis eum non provident.
+                  Menggunakan desain yang responsif, didalam semua platform dan mengimplementasikan teknologi PWA (Progressive Web Application), sehingga dapat aplikasi yang kami bangun siap dipakai pada berbagai platform
                 </p>
               </div>
             </div>
@@ -274,14 +266,12 @@
           <div class="col-md-4">
             <div class="service-box">
               <div class="service-ico">
-                <span class="ico-circle"><i class="bi bi-brightness-high"></i></span>
+                <span class="ico-circle"><i class="bi bi-pie-chart"></i></span>
               </div>
               <div class="service-content">
-                <h2 class="s-title">Graphic Design</h2>
+                <h2 class="s-title">Marketing Service</h2>
                 <p class="s-description text-center">
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni adipisci eaque autem fugiat! Quia,
-                  provident vitae! Magni
-                  tempora perferendis eum non provident.
+                  Kami juga menyediakan layanan maintenance gratis untuk aplikasi yang kami bangun dengan layanan technical support 7x24 jam, melalui WhatsApp
                 </p>
               </div>
             </div>
@@ -292,11 +282,9 @@
                 <span class="ico-circle"><i class="bi bi-calendar4-week"></i></span>
               </div>
               <div class="service-content">
-                <h2 class="s-title">Marketing Services</h2>
+                <h2 class="s-title">Layanan Lain</h2>
                 <p class="s-description text-center">
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni adipisci eaque autem fugiat! Quia,
-                  provident vitae! Magni
-                  tempora perferendis eum non provident.
+                  Kami ada untuk Anda! Dan komitmen kami adalah membuat proses bisnis Anda menjadi lebih mudah dan menyenangkan
                 </p>
               </div>
             </div>
@@ -368,7 +356,7 @@
                 Portfolio
               </h3>
               <p class="subtitle-a">
-                Lorem ipsum, dolor sit amet consectetur adipisicing elit.
+                Project / Aplikasi yang sudah kami kerjakan
               </p>
               <div class="line-mf"></div>
             </div>
@@ -377,22 +365,22 @@
         <div class="row">
           <div class="col-md-4">
             <div class="work-box">
-              <a href="/devfolio/img/work-1.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox">
+              <a href="/devfolio/img/siapic-mix.png" data-gallery="portfolioGallery" class="portfolio-lightbox">
                 <div class="work-img">
-                  <img src="/devfolio/img/work-1.jpg" alt="" class="img-fluid">
+                  <img src="/devfolio/img/siapic-mix.png" alt="" class="img-fluid">
                 </div>
               </a>
               <div class="work-content">
                 <div class="row">
                   <div class="col-sm-8">
-                    <h2 class="w-title">Lorem impsum dolor</h2>
+                    <h2 class="w-title">Si Apic</h2>
                     <div class="w-more">
-                      <span class="w-ctegory">Web Design</span> / <span class="w-date">18 Sep. 2018</span>
+                      <span class="w-ctegory">Mobile Developer</span> / <span class="w-date">21 Oktober 2019</span>
                     </div>
                   </div>
                   <div class="col-sm-4">
                     <div class="w-like">
-                      <a href="portfolio-details.html"> <span class="bi bi-plus-circle"></span></a>
+                      <a href="https://play.google.com/store/apps/details?id=id.co.gesangmultimedia.siapic&hl=en&gl=US"> <span class="bi bi-download"></span></a>
                     </div>
                   </div>
                 </div>
@@ -401,22 +389,22 @@
           </div>
           <div class="col-md-4">
             <div class="work-box">
-              <a href="/devfolio/img/work-2.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox">
+              <a href="/devfolio/img/obvitku-mix.png" data-gallery="portfolioGallery" class="portfolio-lightbox">
                 <div class="work-img">
-                  <img src="/devfolio/img/work-2.jpg" alt="" class="img-fluid">
+                  <img src="/devfolio/img/obvitku-mix.png" alt="" class="img-fluid">
                 </div>
               </a>
               <div class="work-content">
                 <div class="row">
                   <div class="col-sm-8">
-                    <h2 class="w-title">Loreda Cuno Nere</h2>
+                    <h2 class="w-title">Obvitku (Polres Cilacap)</h2>
                     <div class="w-more">
-                      <span class="w-ctegory">Web Design</span> / <span class="w-date">18 Sep. 2018</span>
+                      <span class="w-ctegory">Mobile Developer</span> / <span class="w-date">September 2021</span>
                     </div>
                   </div>
                   <div class="col-sm-4">
                     <div class="w-like">
-                      <a href="portfolio-details.html"> <span class="bi bi-plus-circle"></span></a>
+                      <a href="#"> <span class="bi bi-plus-circle"></span></a>
                     </div>
                   </div>
                 </div>
@@ -425,22 +413,22 @@
           </div>
           <div class="col-md-4">
             <div class="work-box">
-              <a href="/devfolio/img/work-3.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox">
+              <a href="/devfolio/img/simpadu.png" data-gallery="portfolioGallery" class="portfolio-lightbox">
                 <div class="work-img">
-                  <img src="/devfolio/img/work-3.jpg" alt="" class="img-fluid">
+                  <img src="/devfolio/img/simpadu.png" alt="" class="img-fluid">
                 </div>
               </a>
               <div class="work-content">
                 <div class="row">
                   <div class="col-sm-8">
-                    <h2 class="w-title">Mavrito Lana Dere</h2>
+                    <h2 class="w-title">Simpadu (Sistem Database Terpadu)</h2>
                     <div class="w-more">
-                      <span class="w-ctegory">Web Design</span> / <span class="w-date">18 Sep. 2018</span>
+                      <span class="w-ctegory">Web Developer</span> / <span class="w-date">22 Desember 2021</span>
                     </div>
                   </div>
                   <div class="col-sm-4">
                     <div class="w-like">
-                      <a href="portfolio-details.html"> <span class="bi bi-plus-circle"></span></a>
+                      <a href="https://simpadu.gesangmultimedia.co.id" target="_blank"> <span class="bi bi-plus-circle"></span></a>
                     </div>
                   </div>
                 </div>
@@ -449,22 +437,22 @@
           </div>
           <div class="col-md-4">
             <div class="work-box">
-              <a href="/devfolio/img/work-4.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox">
+              <a href="/devfolio/img/simultan-mix.png" data-gallery="portfolioGallery" class="portfolio-lightbox">
                 <div class="work-img">
-                  <img src="/devfolio/img/work-4.jpg" alt="" class="img-fluid">
+                  <img src="/devfolio/img/simultan-mix.png" alt="" class="img-fluid">
                 </div>
               </a>
               <div class="work-content">
                 <div class="row">
                   <div class="col-sm-8">
-                    <h2 class="w-title">Bindo Laro Cado</h2>
+                    <h2 class="w-title">Simultan</h2>
                     <div class="w-more">
-                      <span class="w-ctegory">Web Design</span> / <span class="w-date">18 Sep. 2018</span>
+                      <span class="w-ctegory">Web Developer</span> / <span class="w-date">22 Desember 2021</span>
                     </div>
                   </div>
                   <div class="col-sm-4">
                     <div class="w-like">
-                      <a href="portfolio-details.html"> <span class="bi bi-plus-circle"></span></a>
+                      <a href="https://simultan.maslakone.com" target="_blank"> <span class="bi bi-plus-circle"></span></a>
                     </div>
                   </div>
                 </div>
@@ -473,22 +461,22 @@
           </div>
           <div class="col-md-4">
             <div class="work-box">
-              <a href="/devfolio/img/work-5.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox">
+              <a href="/devfolio/img/sipmak.png" data-gallery="portfolioGallery" class="portfolio-lightbox">
                 <div class="work-img">
-                  <img src="/devfolio/img/work-5.jpg" alt="" class="img-fluid">
+                  <img src="/devfolio/img/sipmak.png" alt="" class="img-fluid">
                 </div>
               </a>
               <div class="work-content">
                 <div class="row">
                   <div class="col-sm-8">
-                    <h2 class="w-title">Studio Lena Mado</h2>
+                    <h2 class="w-title">Sipmak (Sistem Pengelolaan Makan Disperkimta Kab. Cilacap)</h2>
                     <div class="w-more">
-                      <span class="w-ctegory">Web Design</span> / <span class="w-date">18 Sep. 2018</span>
+                      <span class="w-ctegory">Web Developer</span> / <span class="w-date">Oktober 2021</span>
                     </div>
                   </div>
                   <div class="col-sm-4">
                     <div class="w-like">
-                      <a href="portfolio-details.html"> <span class="bi bi-plus-circle"></span></a>
+                      <a href="https://sipmak.gesangmultimedia.co.id" target="_blank"> <span class="bi bi-plus-circle"></span></a>
                     </div>
                   </div>
                 </div>
@@ -497,22 +485,22 @@
           </div>
           <div class="col-md-4">
             <div class="work-box">
-              <a href="/devfolio/img/work-6.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox">
+              <a href="/devfolio/img/rthcilacap.png" data-gallery="portfolioGallery" class="portfolio-lightbox">
                 <div class="work-img">
-                  <img src="/devfolio/img/work-6.jpg" alt="" class="img-fluid">
+                  <img src="/devfolio/img/rthcilacap.png" alt="" class="img-fluid">
                 </div>
               </a>
               <div class="work-content">
                 <div class="row">
                   <div class="col-sm-8">
-                    <h2 class="w-title">Studio Big Bang</h2>
+                    <h2 class="w-title">RTH Kab. Cilacap</h2>
                     <div class="w-more">
-                      <span class="w-ctegory">Web Design</span> / <span class="w-date">18 Sep. 2017</span>
+                      <span class="w-ctegory">Web Developer</span> / <span class="w-date">Oktober 2021</span>
                     </div>
                   </div>
                   <div class="col-sm-4">
                     <div class="w-like">
-                      <a href="portfolio-details.html"> <span class="bi bi-plus-circle"></span></a>
+                      <a href="https://rth-cilacap.gesangmultimedia.co.id/"> <span class="bi bi-plus-circle"></span></a>
                     </div>
                   </div>
                 </div>
